@@ -10936,7 +10936,7 @@
           "railstop.object.json": 0
         },
         "railswitch": {
-          "railswitch.object.json": 0
+          "railswitch.object.json": 1
         }
       },
       "shared_.object.json": 25,
